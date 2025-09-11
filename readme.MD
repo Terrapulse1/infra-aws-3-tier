@@ -8,7 +8,7 @@ This repository contains the infrastructure-as-code (IaC) setup using **Terrafor
 
 ## 📁 Project Structure
 
-```bash
+```bas
 terraform-eks-db/
 ├── .github/workflows/          # GitHub Actions CI/CD workflows
 ├── .qodo/                      # Local automation/scripts (optional or internal tooling)
