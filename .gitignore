@@ -1,0 +1,6 @@
+docker-git-runner-setup/.env
+# Ignore terraform local state and providers
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
